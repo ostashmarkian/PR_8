@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PR8_1i\\x64\\Debug\\Lab8.1i.obj",
+            "outputs": [
+                "PR8_1i\\x64\\Debug\\Lab8.1i.cpp.obj.dt.module.json",
+                "PR8_1i\\x64\\Debug\\Lab8.1i.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
