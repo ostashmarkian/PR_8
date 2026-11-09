@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PR8.vcxproj" />
+  <Project Path="PR8_1i/PR8_1i.vcxproj" Id="54d4287d-306c-4441-aa22-dd7c84c4b1f2" />
+  <Project Path="PR8_1r/PR8_1r.vcxproj" Id="786b14af-0fed-4199-91c9-8809d07ee8d4" />
+  <Project Path="PR8_1char/PR8_1char.vcxproj" Id="77fcc75b-a5e6-453e-aebc-80d666d988b0" />
+  <Project Path="PR8_1string/PR8_1string.vcxproj" Id="53d36940-8ab8-47c2-9cf8-56ebebfffcec" />
 </Solution>

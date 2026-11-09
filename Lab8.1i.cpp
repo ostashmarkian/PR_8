@@ -3,7 +3,6 @@
 
 using namespace std;
 
-// чи є символ одним із '+', '-', '='
 bool IsSign(char c)
 {
     return c == '+' || c == '-' || c == '=';

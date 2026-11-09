@@ -1,0 +1,7 @@
+# build output and Visual Studio cache
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
