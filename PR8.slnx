@@ -7,4 +7,8 @@
   <Project Path="PR8_1r/PR8_1r.vcxproj" Id="786b14af-0fed-4199-91c9-8809d07ee8d4" />
   <Project Path="PR8_1char/PR8_1char.vcxproj" Id="77fcc75b-a5e6-453e-aebc-80d666d988b0" />
   <Project Path="PR8_1string/PR8_1string.vcxproj" Id="53d36940-8ab8-47c2-9cf8-56ebebfffcec" />
+  <Project Path="UnitTest8_1i/UnitTest8_1i.vcxproj" Id="85574a91-1dc5-47e2-81ac-dd02db41c608" />
+  <Project Path="UnitTest8_1r/UnitTest8_1r.vcxproj" Id="ef0b6bb0-5a73-400e-b57b-3adb000b9efd" />
+  <Project Path="UnitTest8_1char/UnitTest8_1char.vcxproj" Id="afc16c54-d9ce-4c42-b63c-50b73050b9ed" />
+  <Project Path="UnitTest8_1string/UnitTest8_1string.vcxproj" Id="e66fdcc8-2829-47d7-8f14-38c7e149c694" />
 </Solution>
